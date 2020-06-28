@@ -35,7 +35,7 @@ In this project, I've implemented the YOLO-v3 algorithm from scratch using Pytor
 
 ```yolov3.cfg```: The cfg file describes the layout of the network, block by block. This file is used to describe the network.
 
-```darknet.py```: Contains the Model Architecture
+```darknet.py```: This script is responsible for creating the netork architecture.
 
 ```pallete```: Just a file of random colors that would come handy while drawing bounding boxes around objects.
 
